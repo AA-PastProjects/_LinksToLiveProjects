@@ -8,7 +8,8 @@ This repository will hold links to online content.
   - The game code is not shown in a public repository as it is private. I did want to share how it turned out though.
   - The game can take a little time to load/start as it was deployed before Unity's newer more efficient web deployment came along.
   
-### Controls
+#### Controls
+  - Mouse for character design, also mouse for hitting play, no login required.
   - WASD for movement.
   - Mouse for aiming.
   - Space for shooting.
