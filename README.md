@@ -5,7 +5,7 @@ This repository will hold links to online content.
 #### Development info
   - A hobby project I worked on.
   - Made in Unity with C#
-  - This code is not shown in a public repository as it is private. I did want to share how it turned out though.
+  - The game code is not shown in a public repository as it is private. I did want to share how it turned out though.
   
 #### Features
   - Character design.
